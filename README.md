@@ -3,7 +3,9 @@ A "clone" of Vampire Survivors using Unity and its Entity Component System (ECS)
 
 
 # External Libraries
-This project uses a slightly modified version of [dear-imgui-unity](https://github.com/realgamessoftware/dear-imgui-unity) by realgamessoftware 
+- Slightly modified version of [dear-imgui-unity](https://github.com/realgamessoftware/dear-imgui-unity) by realgamessoftware 
+- [Cormorant Garamond Font](https://fonts.google.com/specimen/Cormorant+Garamond)
+
 
 # License
 Default Copyright Law:
