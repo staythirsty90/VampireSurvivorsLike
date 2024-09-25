@@ -1,5 +1,5 @@
 # VampireSurvivorsLike
-A "clone" of Vampire Survivors using Unity and its Entity Component System (ECS)
+Eternal Night (VampireSurvivorsLike) is a "clone" of the popular Vampire Survivors using Unity and its Entity Component System (ECS)
 ## Notes
 This projected started two years ago with ECS 0.17 and migrated to 1.0 after over a year. A lot of the API still uses the old and soon to be deprected Entites.ForEach Lambda. The architecture should not be used as an example of how to do things, by a long shot. The goal of the project was to learn and use ECS, the Burst Compiler, the Job System, and Multithreaded programming, using Unity. Everything else, including the game design, art, UI, menus, etc, are second class citizens and exist only to have a basic project working.
 
