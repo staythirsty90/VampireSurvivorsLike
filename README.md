@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/25f74158-8771-428e-b775-af5c3d147627)
+
 # VampireSurvivorsLike
 Eternal Night (VampireSurvivorsLike) is a "clone" of the popular Vampire Survivors using Unity and its Entity Component System (ECS)
 ## Notes
