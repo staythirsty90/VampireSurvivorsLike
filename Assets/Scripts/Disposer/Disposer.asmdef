@@ -1,0 +1,19 @@
+{
+    "name": "Disposer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f6b45f63ece5ad48b4fa9a61ac8ab97",
+        "GUID:db1464f3ed8b41745a99599faff38294",
+        "GUID:f8be6b515953a4e4fb256e61e56fe70c",
+        "GUID:5d787d9d35e911441946ec6847ba12a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/powerupEditor.uss?fileID=7433441132597879392&amp;guid=9a21c9de51a46ee4ab0370d43571859f&amp;type=3#powerupEditor" />
+</ui:UXML>

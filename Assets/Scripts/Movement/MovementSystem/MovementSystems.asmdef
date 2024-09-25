@@ -1,0 +1,33 @@
+{
+    "name": "MovementSystems",
+    "rootNamespace": "",
+    "references": [
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:9a209bfd265efcc4b84a27568306aa5f",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:f8be6b515953a4e4fb256e61e56fe70c",
+        "GUID:6f8f939bb64df6e48bef2b63aa063997",
+        "GUID:6e0ea33038052594598a91f5250c96b8",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:db1464f3ed8b41745a99599faff38294",
+        "GUID:b86e0980889e6f340ae2be57204c6288",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:53f88d57b27910843bfc894b040dbea2",
+        "GUID:6b014e7bce5df704b83d4613225a1754",
+        "GUID:76fcce241a4b6c14394b786700aaa09f",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:d412826a2f773e84eacf451c524e03c9",
+        "GUID:6aa1abf7bc530e24495273e7fde8df90"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

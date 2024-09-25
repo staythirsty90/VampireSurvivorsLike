@@ -1,0 +1,21 @@
+{
+    "name": "ParticleSystemHelper",
+    "rootNamespace": "",
+    "references": [
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:b0dfcd138dc24f348817a018f5d96b18",
+        "GUID:f8be6b515953a4e4fb256e61e56fe70c",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:5d787d9d35e911441946ec6847ba12a7",
+        "GUID:db1464f3ed8b41745a99599faff38294"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

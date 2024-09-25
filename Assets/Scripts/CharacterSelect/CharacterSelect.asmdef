@@ -1,0 +1,17 @@
+{
+    "name": "CharacterSelect",
+    "rootNamespace": "",
+    "references": [
+        "GUID:627e212f41fcee64f9f6522c7e7c41ef",
+        "GUID:1cef8a62957ac2946a520a7a21cb4679"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

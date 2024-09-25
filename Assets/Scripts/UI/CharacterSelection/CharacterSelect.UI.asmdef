@@ -1,0 +1,27 @@
+{
+    "name": "CharacterSelect.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:627e212f41fcee64f9f6522c7e7c41ef",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6889dfc0e1f64c341ac26ba83e75620c",
+        "GUID:0cfb5d70c43ae2f4e81ba8833c661579",
+        "GUID:3f6b45f63ece5ad48b4fa9a61ac8ab97",
+        "GUID:c728eadb7b5a0bd4ea30b57370fbfd11",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:0daa53ec035c5af46a5376a2db0cd697",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:cedb2b821f07fd8428722ee0c9a8a36d",
+        "GUID:734d92eba21c94caba915361bd5ac177"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

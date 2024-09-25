@@ -1,0 +1,73 @@
+.RadioContainer {
+    flex-direction: row;
+}
+
+.RadioContainer RadioButton {
+    background-color: rgb(45, 45, 45);
+    border-left-color: rgb(34, 33, 33);
+    border-right-color: rgb(34, 33, 33);
+    border-top-color: rgb(34, 33, 33);
+    border-bottom-color: rgba(34, 33, 33, 0);
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    color: rgb(205, 205, 205);
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    margin-right: -6px;
+}
+
+.RadioContainer RadioButton:checked {
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    background-color: rgb(56, 56, 56);
+}
+
+.ListEntry {
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-left: 12px;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.ListEntry Image {
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 64px;
+    max-height: 64px;
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 8px;
+    min-width: 64px;
+    min-height: 64px;
+}
+
+.ListEntry Label {
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 64px;
+    max-height: 64px;
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 22px;
+    align-items: auto;
+    align-self: center;
+}
+
+.RadioContainer RadioButton Label {
+    color: rgb(205, 205, 205);
+    font-size: 16px;
+}

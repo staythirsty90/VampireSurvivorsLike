@@ -1,0 +1,18 @@
+{
+    "name": "InitializerHelper",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:374f1606e5c92f047b81181faaa9ed64",
+        "GUID:b0dfcd138dc24f348817a018f5d96b18"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

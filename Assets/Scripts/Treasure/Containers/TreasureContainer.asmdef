@@ -1,0 +1,31 @@
+{
+    "name": "TreasureContainer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:5ab2336726bbacf4b9c3b1ba8baf6ec1",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:e83b511a05ad3de49bfa61c400ecf7c1",
+        "GUID:cedb2b821f07fd8428722ee0c9a8a36d",
+        "GUID:3f6b45f63ece5ad48b4fa9a61ac8ab97",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:0cfb5d70c43ae2f4e81ba8833c661579",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:6f8f939bb64df6e48bef2b63aa063997",
+        "GUID:80d30aa0ebce6a84a92716c900e582d0",
+        "GUID:1cef8a62957ac2946a520a7a21cb4679",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:9a209bfd265efcc4b84a27568306aa5f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

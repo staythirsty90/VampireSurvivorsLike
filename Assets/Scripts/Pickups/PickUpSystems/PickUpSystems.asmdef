@@ -1,0 +1,33 @@
+{
+    "name": "PickUpSystems",
+    "rootNamespace": "",
+    "references": [
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:6222c0a233b0f1c4fa86b5334b7d986f",
+        "GUID:5d787d9d35e911441946ec6847ba12a7",
+        "GUID:6f8f939bb64df6e48bef2b63aa063997",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:9a209bfd265efcc4b84a27568306aa5f",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:6b014e7bce5df704b83d4613225a1754",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:8976346b9e8e8b64ab4070ccd6005fef",
+        "GUID:5ab2336726bbacf4b9c3b1ba8baf6ec1",
+        "GUID:6d0a0de8287473b40ae8c69294acb8a3",
+        "GUID:b0dfcd138dc24f348817a018f5d96b18",
+        "GUID:627e212f41fcee64f9f6522c7e7c41ef",
+        "GUID:3f6b45f63ece5ad48b4fa9a61ac8ab97",
+        "GUID:cc771f3b184f70149a7572484f4079cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/treeview/treeview.uss?fileID=7433441132597879392&amp;guid=38847b0424823d841b6c17d294fe61c8&amp;type=3#treeview" />
+    <ui:TreeView focusable="true" fixed-item-height="22" show-border="false" show-alternating-row-backgrounds="ContentOnly" auto-expand="false" horizontal-scrolling="false" reorderable="true" />
+    <ui:ScrollView mode="Vertical" style="background-color: rgb(118, 93, 93); padding-top: 28px; padding-right: 28px; padding-bottom: 28px; padding-left: 28px;">
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(197, 113, 113, 0.81); width: 32px; height: 32px;" />
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(197, 113, 113, 0.81); width: 32px; height: 32px;" />
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(197, 113, 113, 0.81); width: 32px; height: 32px;" />
+    </ui:ScrollView>
+</ui:UXML>

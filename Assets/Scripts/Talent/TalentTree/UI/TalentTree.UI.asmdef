@@ -1,0 +1,24 @@
+{
+    "name": "TalentTree.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:e8125f8184f6b364b902fc0597cc1706",
+        "GUID:ac1ae9794675f974ba294a952cd87805",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:ff1657c6f4ec7c1428dfce77baa05f07",
+        "GUID:d090a31e022f58f41b12ad7ba0366d7a",
+        "GUID:6f67315087b5ee449aeb81f3c6ca1161",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:e0cd26848372d4e5c891c569017e11f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

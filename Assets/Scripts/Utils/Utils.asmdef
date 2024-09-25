@@ -1,0 +1,23 @@
+{
+    "name": "Utils",
+    "rootNamespace": "",
+    "references": [
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:e5214a542294b8a4998ba8d533f83a56",
+        "GUID:6f8f939bb64df6e48bef2b63aa063997",
+        "GUID:f8be6b515953a4e4fb256e61e56fe70c",
+        "GUID:b0dfcd138dc24f348817a018f5d96b18",
+        "GUID:374f1606e5c92f047b81181faaa9ed64"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

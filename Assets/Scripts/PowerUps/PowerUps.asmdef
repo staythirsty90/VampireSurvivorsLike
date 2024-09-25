@@ -1,0 +1,23 @@
+{
+    "name": "PowerUps",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f8be6b515953a4e4fb256e61e56fe70c",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:b0dfcd138dc24f348817a018f5d96b18",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:53f88d57b27910843bfc894b040dbea2",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:6e0ea33038052594598a91f5250c96b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

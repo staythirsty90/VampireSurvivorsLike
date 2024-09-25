@@ -1,0 +1,26 @@
+{
+    "name": "StageSelect",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6b014e7bce5df704b83d4613225a1754",
+        "GUID:627e212f41fcee64f9f6522c7e7c41ef",
+        "GUID:6889dfc0e1f64c341ac26ba83e75620c",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:0cfb5d70c43ae2f4e81ba8833c661579",
+        "GUID:c728eadb7b5a0bd4ea30b57370fbfd11",
+        "GUID:3f6b45f63ece5ad48b4fa9a61ac8ab97",
+        "GUID:acf8c628c73399f448351688a93fb29e",
+        "GUID:78aaff5d1d536dd42bec6049a17f2cc0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,47 @@
+.icon {
+    flex-grow: 1;
+    background-color: rgb(255, 0, 0);
+    width: 30px;
+    height: 30px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+}
+
+.tab-inactive {
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-self: flex-start;
+    flex-wrap: nowrap;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-width: 0;
+    background-color: rgb(56, 56, 56);
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px;
+}
+
+.tab {
+    -unity-text-align: middle-center;
+    justify-content: center;
+    align-self: center;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+}

@@ -1,0 +1,38 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/uss.uss?fileID=7433441132597879392&amp;guid=4aef0b82dae7c58459f8ef542e6c5e5c&amp;type=3#uss" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(48, 48, 48); height: 3px; width: 100%; max-height: 3px; translate: 0 56px;" />
+    <ui:VisualElement name="Toolbar" style="flex-direction: row; padding-top: 5px; padding-right: 5px; padding-bottom: 0; padding-left: 5px;">
+        <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tab" class="tab-inactive" style="translate: 0 0; background-image: none; opacity: 1;">
+            <ui:VisualElement name="icon" style="flex-grow: 1; background-image: resource(&apos;Sprites/knight&apos;); width: 20px; height: 32px;" />
+            <ui:Label tabindex="-1" text="Units" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-text-align: middle-center; justify-content: center; align-self: center; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;" />
+        </ui:Button>
+        <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tab" class="tab-inactive tab">
+            <ui:VisualElement name="icon" style="flex-grow: 1; background-image: resource(&apos;Sprites/bone&apos;); width: 19px; height: 24px; margin-top: 8px; rotate: 0;" />
+            <ui:Label tabindex="-1" text="Missiles" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-text-align: middle-center; justify-content: center; align-self: center; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;" />
+        </ui:Button>
+        <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tab" class="tab-inactive tab">
+            <ui:VisualElement name="icon" style="flex-grow: 1; background-image: resource(&apos;Sprites/brazier&apos;); width: 21px; height: 31px; margin-top: 0; rotate: 0;" />
+            <ui:Label tabindex="-1" text="Destructibles" parse-escape-sequences="true" display-tooltip-when-elided="true" class="tab" />
+        </ui:Button>
+        <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tab" class="tab-inactive">
+            <ui:VisualElement name="icon" style="flex-grow: 1; background-image: resource(&apos;Sprites/sword&apos;); width: 20px; height: 32px;" />
+            <ui:Label tabindex="-1" text="Power Ups" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" enable-rich-text="true" style="-unity-text-align: middle-center; justify-content: center; align-self: center; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;" />
+        </ui:Button>
+        <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tab" class="tab-inactive">
+            <ui:VisualElement name="icon" style="flex-grow: 1; background-image: resource(&apos;Sprites/xpgems&apos;); width: 27px; height: 31px; -unity-background-scale-mode: stretch-to-fill; align-self: center; justify-content: flex-start;" />
+            <ui:Label tabindex="-1" text="Pick Ups" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" enable-rich-text="true" style="-unity-text-align: middle-center; justify-content: center; align-self: center; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;" />
+        </ui:Button>
+        <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Tab" class="tab-inactive">
+            <ui:VisualElement name="icon" style="flex-grow: 1; background-image: resource(&apos;Sprites/tree&apos;); width: 20px; height: 32px;" />
+            <ui:Label tabindex="-1" text="Obstructibles" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Label" style="-unity-text-align: middle-center; justify-content: center; align-self: center; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 3px;" />
+        </ui:Button>
+    </ui:VisualElement>
+    <ui:VisualElement style="flex-grow: 1; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 4px; margin-right: 4px; margin-bottom: 4px; margin-left: 4px; flex-direction: row;">
+        <ui:VisualElement style="flex-grow: 1; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 4px; margin-right: 4px; margin-bottom: 4px; margin-left: 4px; border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-left-color: rgb(48, 48, 48); border-right-color: rgb(48, 48, 48); border-top-color: rgb(48, 48, 48); border-bottom-color: rgb(48, 48, 48); width: 227px;">
+            <ui:ScrollView>
+                <ui:Label tabindex="-1" text="Total Units (123)" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+            </ui:ScrollView>
+        </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 4px; margin-right: 4px; margin-bottom: 4px; margin-left: 4px; border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-left-color: rgb(48, 48, 48); border-right-color: rgb(48, 48, 48); border-top-color: rgb(48, 48, 48); border-bottom-color: rgb(48, 48, 48); width: 1084px;" />
+    </ui:VisualElement>
+</ui:UXML>

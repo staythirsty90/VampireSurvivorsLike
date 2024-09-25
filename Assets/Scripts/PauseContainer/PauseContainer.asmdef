@@ -1,0 +1,21 @@
+{
+    "name": "PauseContainer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e83b511a05ad3de49bfa61c400ecf7c1",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:6889dfc0e1f64c341ac26ba83e75620c",
+        "GUID:5d040733373ec184c8cdf733ce3d29e0",
+        "GUID:f7512b9d6255e7e4eac4bb285b559d29",
+        "GUID:1761f89c1b777bd4ea94f415d07ce0dc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Talent.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:ff1657c6f4ec7c1428dfce77baa05f07",
+        "GUID:ac1ae9794675f974ba294a952cd87805",
+        "GUID:0cfb5d70c43ae2f4e81ba8833c661579"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

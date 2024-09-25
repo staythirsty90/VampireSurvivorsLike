@@ -1,0 +1,26 @@
+{
+    "name": "Stages",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6b014e7bce5df704b83d4613225a1754",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:db1464f3ed8b41745a99599faff38294",
+        "GUID:b0dfcd138dc24f348817a018f5d96b18",
+        "GUID:80d30aa0ebce6a84a92716c900e582d0",
+        "GUID:cc771f3b184f70149a7572484f4079cc",
+        "GUID:b86e0980889e6f340ae2be57204c6288",
+        "GUID:6d0a0de8287473b40ae8c69294acb8a3",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:3555220a9c2d17648892730794c36e26",
+        "GUID:734d92eba21c94caba915361bd5ac177"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

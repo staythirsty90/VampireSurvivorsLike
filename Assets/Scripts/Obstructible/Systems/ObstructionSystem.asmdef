@@ -1,0 +1,32 @@
+{
+    "name": "ObstructionSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0dfcd138dc24f348817a018f5d96b18",
+        "GUID:374f1606e5c92f047b81181faaa9ed64",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:c674a9176ddcef94088f0fa688ea06e5",
+        "GUID:6f8f939bb64df6e48bef2b63aa063997",
+        "GUID:6d0a0de8287473b40ae8c69294acb8a3",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:e5214a542294b8a4998ba8d533f83a56",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:9a209bfd265efcc4b84a27568306aa5f",
+        "GUID:6e0ea33038052594598a91f5250c96b8",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:9235cc7c11940fa478023923c6868406",
+        "GUID:6b014e7bce5df704b83d4613225a1754",
+        "GUID:d796ce0f68e497e4f9646cf6afddc49c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Missiles",
+    "rootNamespace": "",
+    "references": [
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:6f8f939bb64df6e48bef2b63aa063997",
+        "GUID:b0dfcd138dc24f348817a018f5d96b18",
+        "GUID:374f1606e5c92f047b81181faaa9ed64",
+        "GUID:53f88d57b27910843bfc894b040dbea2",
+        "GUID:6d0a0de8287473b40ae8c69294acb8a3",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:e5214a542294b8a4998ba8d533f83a56",
+        "GUID:9c0f478bb83c24b4294088db74a67a32",
+        "GUID:d796ce0f68e497e4f9646cf6afddc49c",
+        "GUID:5b84fea54506d7a4aae2cf7d35081d33",
+        "GUID:d412826a2f773e84eacf451c524e03c9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

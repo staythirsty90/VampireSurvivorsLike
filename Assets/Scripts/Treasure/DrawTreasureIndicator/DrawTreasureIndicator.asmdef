@@ -1,0 +1,26 @@
+{
+    "name": "DrawTreasureIndicator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:0cfb5d70c43ae2f4e81ba8833c661579",
+        "GUID:6f8f939bb64df6e48bef2b63aa063997",
+        "GUID:80d30aa0ebce6a84a92716c900e582d0",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:6e0ea33038052594598a91f5250c96b8",
+        "GUID:6d0a0de8287473b40ae8c69294acb8a3",
+        "GUID:e5214a542294b8a4998ba8d533f83a56",
+        "GUID:2665a8d13d1b3f18800f46e256720795"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
